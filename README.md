@@ -1,5 +1,5 @@
 # DFA-minimizer
-First partial project made during the computational maths course.
+First partial project carried out for the computational mathematics course.
 
 
 ## Functionality
